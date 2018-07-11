@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Brain-numbingly Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP. Mr PotatoHead knows lots of cool things!
   </p>
 </body>
 </html>
